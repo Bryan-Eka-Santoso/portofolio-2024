@@ -18,7 +18,6 @@ $(".owl-carousel-left").owlCarousel({
   loop: true,
   margin: 10,
   autoplay: true,
-  autoplayTimeout: 1000,
   autoplayHoverPause: true,
   responsive: {
     0: {
@@ -37,7 +36,6 @@ $(".owl-carousel-right").owlCarousel({
   loop: true,
   margin: 10,
   autoplay: true,
-  autoplayTimeout: 1000,
   autoplayHoverPause: true,
   rtl: true,
   responsive: {
